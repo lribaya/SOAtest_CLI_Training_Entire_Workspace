@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TestsRun>
+   <Project err="0" fail="0" name="Example_Project" skip="0" success="3" total="3">
+      <TestCase id="wk:///Example_Project/Test.tst#0000000000#0000000002" success="true"/>
+      <TestCase id="wk:///Example_Project/Test3.tst#0000000000#0000000002" success="true"/>
+      <TestCase id="wk:///Example_Project/Test2.tst#0000000000#0000000002" success="true"/>
+   </Project>
+   <Project err="0" fail="0" name="TestAssets" skip="0" success="0" total="0"/>
+</TestsRun>

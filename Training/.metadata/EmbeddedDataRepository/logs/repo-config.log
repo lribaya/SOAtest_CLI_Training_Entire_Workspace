@@ -1,0 +1,12 @@
+Configuring data repository users
+Setting user.
+Successfully added user: {
+	"user" : "parasoft_embedded_repo",
+	"roles" : [
+		{
+			"role" : "root",
+			"db" : "admin"
+		}
+	]
+}
+User configration finished.

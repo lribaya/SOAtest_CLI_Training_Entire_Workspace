@@ -1,0 +1,6 @@
+MongoDB shell version v3.6.8
+connecting to: mongodb://127.0.0.1:9100/admin
+MongoDB server version: 3.6.8
+2023-01-09T01:52:45.342-0800 I NETWORK  [thread1] Socket recv() An existing connection was forcibly closed by the remote host. 127.0.0.1:9100
+2023-01-09T01:52:45.342-0800 I NETWORK  [thread1] SocketException: remote: (NONE):0 error: SocketException socket exception [RECV_ERROR] server [127.0.0.1:9100] 
+server should be down...
